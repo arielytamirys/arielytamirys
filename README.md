@@ -15,8 +15,9 @@
   <img align="center" alt="Ari-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />   
   <img align="center" alt="Ari-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />        
  </div>
-
+</br>
  Estudando 
+ </br>
  <div>
   <img align="center" alt="Ari-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
  </div>        
