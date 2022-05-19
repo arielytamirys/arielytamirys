@@ -24,3 +24,7 @@
   <img align="center" alt="Ari-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
  </div>        
   
+  Redes Sociais
+  
+  <a href= "https://www.linkedin.com/in/ariely-tamirys-a58aa4112/" target:"_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/></a>
+
