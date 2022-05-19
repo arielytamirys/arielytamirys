@@ -25,6 +25,6 @@
  </div>        
   
   Redes Sociais
-  
+  <div>
   <a href= "https://www.linkedin.com/in/ariely-tamirys-a58aa4112/" target:"_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"/></a>
-
+</div>
