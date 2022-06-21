@@ -19,10 +19,9 @@
  Estudando 
  </br>
  <div>
-  <img align="center" alt="Ari-Node.js" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Ari-Vue.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="Ari-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
- </div>        
+  
+ 
   
   Redes Sociais
   <div>
